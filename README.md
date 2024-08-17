@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José Walmir</h1>
 <h3 align="center">I am a long life Data Science learner</h3>
 
-- 🔭 I’m currently working on **Machine Learning Project for process improvement in manufacturing area**
-
-- 🌱 I’m currently studying **MBA Data Science at USP Esalq / SP**
+- 👨🏻‍🎓 Graduated in Production Engineering
+- 👨🏻‍🎓 MBA in Data Science and Analytics (USP Esalq)
+- ⚙ Machine Learning Project implemented in manufacturing area
 
 - 📄 Know about my experiences [www.linkedin.com/walzone](www.linkedin.com/walzone)
 
